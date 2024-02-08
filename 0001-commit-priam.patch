@@ -1,0 +1,22 @@
+From 28058f89c1cc463264b467bffba5153b7ee4c5b7 Mon Sep 17 00:00:00 2001
+From: Priam <priamvathana26@gmail.com>
+Date: Thu, 8 Feb 2024 17:15:56 +0530
+Subject: [PATCH] commit priam
+
+---
+ .gitignore | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 .gitignore
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..0050650
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++/venv/
++requirements.txt
+\ No newline at end of file
+-- 
+2.43.0.windows.1
+
